@@ -12,3 +12,5 @@ The dataset used for this project was obtained from Kaggle:
 
 Spotify Global Music Dataset (2009–2025)
 https://www.kaggle.com/datasets/wardabilal/spotify-global-music-dataset-20092025
+
+Some conceptual foundations (PCA/SVD intuition) are explored separately here: https://github.com/Tolulopeelijah/Linear-algebra-for-ML-experiments-
